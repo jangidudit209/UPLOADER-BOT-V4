@@ -19,5 +19,5 @@ if __name__ == "__main__" :
     upload_boost=True,
     sleep_threshold=300,
     plugins=plugins)
-    print("🎊 I AM ALIVE 🎊  • Support @NT_BOTS_SUPPORT")
+    print("🎊 I AM ALIVE 🎊  • Support @Medicoarmy")
     Client.run()
